@@ -1,3 +1,14 @@
+// Para empezar a utilizar el programa ejecutar 'npm install'
+// Se descargaran todas las dependencias necesarias para la ejecucion
+
+// Inicializar repositorio: git init
+
+// git add .  // todos los cambios desde el ultimo commit
+// 
+// git commit -m "Primer commit" // ej
+// git checkout --. // restaurar ultimo punto
+
+// despues se enlaza con github
 
 console.clear();
 
